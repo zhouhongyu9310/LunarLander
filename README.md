@@ -1,5 +1,6 @@
-# CS7642_Project2
-The project2 for cs7642 course. Lunar Lander Project
+# MiniProject for solving Lunar Lander problem from Open AI Gym
+
+This project use DDQN to train the agent and passed the game
 
 ## Parameter Tuning:  
 **python ddnq_vect_train.py -epis XXX** : run XXX episode   
